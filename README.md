@@ -19,7 +19,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: [Solution online](https://dovlicio.github.io/blog-preview-card-component/)
+- Live Site URL: [Solution online](https://dovlicio.github.io/social-links-profile-component/)
 
 ## My process
 
