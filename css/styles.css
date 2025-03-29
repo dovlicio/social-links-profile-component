@@ -93,6 +93,7 @@ body {
     border-radius: 8px;
     font-weight: 700;
     color: var(--color--white);
+    transition: all 0.3s;
 }
 
 .card__list-item:hover {
